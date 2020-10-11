@@ -1,0 +1,26 @@
+:root{
+
+    --mainColor:rgb(48, 45, 45);
+    --secondaryColor:rgb(102, 97, 97);
+
+    --borderColor:rgb(160, 162, 163);
+
+    --mainText:rgb(253, 253, 253);
+    --secondaryText: #f8fafc;
+    --themeDotborder:rgb(222, 228, 225);
+
+
+    --prevBg:rgb(63, 60, 60);
+    --prevShadow:#929399;
+
+
+    --imgColor:white;
+    --imgBorder:rgb(160, 162, 163);
+    --linkColor:rgb(1, 2, 100);
+
+    /* container....... button */
+    --bgColor:#636864;
+    --buttonColor:rgb(63, 60, 60);
+    --getColor:#45f3ff;
+
+}
